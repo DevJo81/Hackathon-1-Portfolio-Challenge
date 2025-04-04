@@ -12,9 +12,9 @@ I hold a degree in Microbiology from the University of Dar es Salaam.
 ---
 
 ## 🎯 **Interests**
-*Learning more about software development and the role it plays in creating efficient solutions through code.
-*Web Development and the core building blocks of web pages especially HTML and CSS.
-*Digital Marketing and Web Analytics.
+1. Learning more about software development and the role it plays in creating efficient solutions through code.
+2. Web Development and the core building blocks of web pages especially HTML and CSS.
+3. Digital Marketing and Web Analytics.
 
 ---
 
@@ -25,19 +25,9 @@ I hold a degree in Microbiology from the University of Dar es Salaam.
 ---
 
 ## 📝 **Contact Me**
-Connect with me at [Contact Form]('''html<form action="/submit" method="POST">
-             <label for="name">Name:</label>
-             <input type="text" id="name" name="your name" required>
-             <br><br>
-             <label for="email">Email:</label>
-             <input type="email" id="email" name="your email" required>
-             <br><br>
-             <label for="message">Message:</label>
-             <textarea name="message" id="your message"></textarea>
-             <br><br>
-             <button type="submit">Submit</button>
-        </form> )
-
+Connect with me at 
+Email: joannejerome97@gmail.com
+Phone: +255742807070
 ---
 
 Thank you for visiting ✨
